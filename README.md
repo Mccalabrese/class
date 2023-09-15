@@ -7,10 +7,10 @@ This is a **Description** of a *thing*
 
 ###table of contents
 
-https://github.com/Mccalabrese/class/tree/main/code
+[Code](https://github.com/Mccalabrese/class/tree/main/code)
 
-https://github.com/Mccalabrese/class/tree/main/data
+[Data](https://github.com/Mccalabrese/class/tree/main/data)
 
-https://github.com/Mccalabrese/class/tree/main/images
+[Images](https://github.com/Mccalabrese/class/tree/main/images)
 
-https://github.com/Mccalabrese/class/tree/main/refernces
+[References](https://github.com/Mccalabrese/class/tree/main/references)
